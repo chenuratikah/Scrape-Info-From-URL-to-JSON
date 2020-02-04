@@ -1,4 +1,4 @@
-# ScrapeWazeInfoJSON
+# ScrapeFromURL_JSON
 
 The following real time streaming pipeline are written to scrape data from URL in JSON format to MongoDB. The data is scraped based on polygons, stored hourly, sectioned by polygons and refreshed every 2 minutes.
 
